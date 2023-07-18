@@ -1,3 +1,3 @@
 # GitHub-Test
-This is my first GitHub created using GitHub 
-This is from branch 2
+- This is my first GitHub created using GitHub 
+- This is from branch 2
